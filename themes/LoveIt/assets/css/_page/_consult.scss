@@ -1,0 +1,28 @@
+.consultTable{
+  th{
+    text-overflow: ellipsis;
+    overflow: hidden;
+  }
+  td{
+    vertical-align:top;
+    height:0.5em;
+  }
+  td.boring{
+    background-color:red;
+    height:100%; overflow:auto;
+  }
+  .cabinetSenlis{
+    background-color:#1ED0C0;
+    height:100%; overflow:auto;
+    color:white;
+  }
+  .cabinetHopital{
+    background-color:#FE8A6B;
+    height:100%; overflow:auto;
+    color:white;
+  }
+  .consultText{
+    font-size:smaller;
+  }
+}
+
