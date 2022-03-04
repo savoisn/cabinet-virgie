@@ -1,4 +1,8 @@
 baseURL = "https://savoisn.github.io/cabinet-virgie/"
+
+RelativeURLs=true
+CanonifyURLs=true
+
 # [en, zh-cn, fr, pl, ...] determines default content language
 # [en, zh-cn, fr, pl, ...] 设置默认的语言
 defaultContentLanguage = "en"
